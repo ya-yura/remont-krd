@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ya-yura.github.io/remont-pod-kontrolem/sitemap.xml
